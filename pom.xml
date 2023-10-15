@@ -4,11 +4,11 @@
 	<modelVersion>4.0.0</modelVersion>
 
 	<groupId>com.milon</groupId>
-	<artifactId>01-BasicConfig-Insert</artifactId>
+	<artifactId>Hibernate-BasicConfig-Insert-Fetch</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<packaging>jar</packaging>
 
-	<name>01-BasicConfig-Insert</name>
+	<name>Hibernate-BasicConfig-Insert-Fetch</name>
 	<url>http://maven.apache.org</url>
 
 	<properties>
